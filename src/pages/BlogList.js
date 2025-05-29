@@ -48,7 +48,7 @@ export default function BlogList() {
     <div className="blog-list container mt-4 mb-5">
       <h1 className="text-center mb-4 page-title">
         <i className="bi bi-cpu me-2"></i>
-        AI Insights Blog
+        Tech Insights
       </h1>
       <div className="row row-cols-1 g-4">
       {blogs.map(blog => (
